@@ -6,25 +6,31 @@ const SobreMi = () => {
           ¡Hola! 👋
         </h2>
         <p className="mb-5">
-          Soy Wilmer, tengo 21 años y estudio la carrera técnica de Desarrollo
-          de Sistemas de Información en el Instituto Continental.
+          Soy Wilmer, tengo 21 años y estoy cursando la carrera técnica de
+          Desarrollo de Sistemas de Información en el Instituto Continental.
         </p>
         <p className="mb-5">
-          Me apasiona la tecnología y cómo esta puede transformar la vida de las
-          personas. Estoy en constante aprendizaje, explorando nuevas
-          herramientas y tecnologías para mejorar mis habilidades en el
-          desarrollo de software.
+          {" "}
+          Me encanta la tecnología y cómo puede cambiar vidas. Siempre estoy
+          aprendiendo cosas nuevas, probando herramientas y explorando formas de
+          mejorar mis habilidades como desarrollador.{" "}
         </p>
         <p className="mb-5">
-          Soy una persona curiosa y con muchas ganas de crecer profesionalmente.
-          Disfruto trabajando en equipo, enfrentando nuevos desafíos y buscando
-          soluciones innovadoras.
+          {" "}
+          Soy curioso por naturaleza y me emociona crecer profesionalmente.
+          Disfruto trabajar en equipo, resolver problemas y encontrar soluciones
+          creativas a los desafíos que se presentan.{" "}
         </p>
         <p className="mb-5">
-          Estoy entusiasmado por las oportunidades que el futuro tiene para
-          ofrecer y por seguir aprendiendo cada día.
+          {" "}
+          El futuro me emociona, y estoy listo para seguir aprendiendo y
+          aprovechando las oportunidades que vengan. ¡Cada día es una nueva
+          aventura!{" "}
+        </p>{" "}
+        <p className="font-bold">
+          {" "}
+          ¡Espero poder conectar contigo y compartir ideas pronto! 😊{" "}
         </p>
-        <p className="font-bold">¡Espero conectar contigo pronto!</p>
       </section>
     </>
   );

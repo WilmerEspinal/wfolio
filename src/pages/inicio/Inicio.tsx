@@ -13,12 +13,18 @@ const Inicio = () => {
             />
             <p className="font-bold">Wilmer✨</p>
           </div>
-          <h2 className="font-bold text-2xl mt-2">¡Hola, Mundo! 👋</h2>
+          <h2 className="font-bold text-2xl mt-2">Hello, World! 👋</h2>
           <p className="leading-5">
-            Bienvenido/a a mi sitio personal, donde comparto lo que estoy
-            aprendiendo y creando en el apasionante mundo del desarrollo de
-            software. Aquí encontrarás contenido sobre proyectos, tecnologías, y
-            consejos prácticos para programar mejor.
+            Bienvenido/a a mi rincón en la web. Aquí comparto mis aventuras,
+            aprendizajes y proyectos en el mundo del desarrollo de software.
+            Encontrarás ideas, consejos y reflexiones para escribir código más
+            limpio.
+          </p>
+          <p>
+            No soy un experto en todo (¡nadie lo es!), pero me encanta aprender
+            y compartir lo que voy descubriendo. Si te gusta programar, innovar
+            o simplemente curiosear, estoy seguro de que encontrarás algo
+            interesante por aquí. ¡Vamos a aprender y crecer juntos! 💻✨
           </p>
           <img className="rounded mt-1" src={Programming} alt="" />
         </div>
