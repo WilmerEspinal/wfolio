@@ -1,5 +1,3 @@
-import Profile from "../../assets/perfil.jpg";
-
 const Inicio = () => {
   return (
     <>
