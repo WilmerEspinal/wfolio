@@ -12,7 +12,7 @@ const Inicio = () => {
             <p className="font-bold">Wilmer✨</p>
           </div>
           <h2 className="font-bold text-2xl mt-2">Hello, World! 👋</h2>
-          <p className="leading-5">
+          <p className="mb-1">
             Bienvenido/a a mi rincón en la web. Aquí comparto mis aventuras,
             aprendizajes y proyectos en el mundo del desarrollo de software.
             Encontrarás ideas, consejos y reflexiones para escribir código más
