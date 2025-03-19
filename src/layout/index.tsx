@@ -113,7 +113,7 @@ const Home = () => {
               <div className="h-[74px]  min-w-48 flex justify-between items-center">
                 <img
                   className=" rounded-full border-4 w-[140px] h-[140px] border-black relative bottom-[33px]"
-                  src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/perfil_hopywq.jpg"
+                  src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742400859/perfil_11zon_b3obno.webp"
                   alt="Foto de wilmer"
                 />
                 <div className="flex gap-2">

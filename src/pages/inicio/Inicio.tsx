@@ -6,7 +6,7 @@ const Inicio = () => {
           <div className="flex">
             <img
               className="w-[40px] h-[40px] rounded-full"
-              src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/perfil_hopywq.jpg"
+              src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742400859/perfil_11zon_b3obno.webp"
               alt="foto de wilmer"
             />
             <p className="font-bold">Wilmer✨</p>
@@ -25,7 +25,7 @@ const Inicio = () => {
             interesante por aquí. ¡Vamos a aprender y crecer juntos! 💻✨
           </p>
           <img
-            className="rounded mt-1"
+            className="rounded mt-1 w-[576px] h-[324px]"
             src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397625/programming_rzffla.jpg"
             alt="frase"
           />
