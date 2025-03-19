@@ -26,7 +26,7 @@ const Inicio = () => {
           </p>
           <img
             className="rounded mt-1 w-[576px] h-[324px]"
-            src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397625/programming_rzffla.jpg"
+            src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742401240/programming_11zon_pn7amf.webp"
             alt="frase"
           />
         </div>
