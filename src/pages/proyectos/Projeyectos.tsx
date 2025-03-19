@@ -1,14 +1,7 @@
-import CrayonIMG from "../../assets/crayons-home.png";
-import Idioma from "../../assets/idioma-ashaninka.png";
-import TodooApp from "../../assets/todo-app.png";
-import RecipePage from "../../assets/recipe-page.png";
-import MyTeam from "../../assets/my-team-page.png";
-import MyGallery from "../../assets/my-gallery.png";
-
 const Proyectos = () => {
   const projects = [
     {
-      img: CrayonIMG,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397631/crayons-home_dzxnhf.png",
       alt: "Colegio crayons",
       title: "Proyecto Colegio Crayon's",
       description:
@@ -16,7 +9,7 @@ const Proyectos = () => {
       link: "https://crayons.com.pe/",
     },
     {
-      img: Idioma,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397628/idioma-ashaninka_hwgle5.png",
       alt: "pagina para aprender ashaninka",
       title: "Aprende Asháninka",
       description:
@@ -24,7 +17,7 @@ const Proyectos = () => {
       link: "https://freddy-idiomas.vercel.app/aves",
     },
     {
-      img: TodooApp,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397625/todo-app_vo5afx.png",
       alt: "Todo App",
       title: "Todo App - (challenge)",
       description:
@@ -32,7 +25,7 @@ const Proyectos = () => {
       link: "https://wilmerespinal.github.io/todo-app/",
     },
     {
-      img: RecipePage,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397625/recipe-page_ttfhi6.png",
       alt: "Página de Recetas Deliciosas",
       title: "Página de Recetas Deliciosas - (challenge)",
       description:
@@ -40,7 +33,7 @@ const Proyectos = () => {
       link: "https://wilmerespinal.github.io/recipe-page/",
     },
     {
-      img: MyTeam,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/my-team-page_uyljyl.png",
       alt: "Página de Presentación de Equipo",
       title: "Página de Presentación de Equipo - (challenge)",
       description:
@@ -48,7 +41,7 @@ const Proyectos = () => {
       link: "https://wilmerespinal.github.io/my-team-page/",
     },
     {
-      img: MyGallery,
+      img: "https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/my-gallery_gtz9cs.png",
       alt: "Galería de Imágenes Estatica",
       title: "Galería de Imágenes Estatica - (challenge)",
       description:

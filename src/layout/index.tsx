@@ -3,7 +3,6 @@ import Bols from "../assets/icons/bols.svg";
 import LinkIcon from "../assets/icons/link.svg";
 import Birthday from "../assets/icons/birthday.svg";
 import Calendar from "../assets/icons/calendar.svg";
-import Perfil from "../assets/perfil.jpg";
 
 const Home = () => {
   const location = useLocation();
@@ -114,7 +113,7 @@ const Home = () => {
               <div className="h-[74px]  min-w-48 flex justify-between items-center">
                 <img
                   className=" rounded-full border-4 w-[140px] h-[140px] border-black relative bottom-[33px]"
-                  src={Perfil}
+                  src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/perfil_hopywq.jpg"
                   alt="Foto de wilmer"
                 />
                 <div className="flex gap-2">

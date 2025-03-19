@@ -1,5 +1,5 @@
 import Profile from "../../assets/perfil.jpg";
-import Programming from "../../assets/programming.jpg";
+
 const Inicio = () => {
   return (
     <>
@@ -8,7 +8,7 @@ const Inicio = () => {
           <div className="flex">
             <img
               className="w-[40px] h-[40px] rounded-full"
-              src={Profile}
+              src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397626/perfil_hopywq.jpg"
               alt="foto de wilmer"
             />
             <p className="font-bold">Wilmer✨</p>
@@ -26,7 +26,11 @@ const Inicio = () => {
             o simplemente curiosear, estoy seguro de que encontrarás algo
             interesante por aquí. ¡Vamos a aprender y crecer juntos! 💻✨
           </p>
-          <img className="rounded mt-1" src={Programming} alt="" />
+          <img
+            className="rounded mt-1"
+            src="https://res.cloudinary.com/dszdc6rh8/image/upload/v1742397625/programming_rzffla.jpg"
+            alt="frase"
+          />
         </div>
       </section>
     </>
