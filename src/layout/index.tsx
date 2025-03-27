@@ -126,7 +126,7 @@ const Home = () => {
                   </a>
                   <a
                     className="bg-[#D32F2F] w-[103px] rounded-full h-[40px] flex justify-center items-center text-white"
-                    href="/cv_espinal_villanueva_wilmer.pdf"
+                    href="/cv_wilmer_espinal_villanueva"
                     download="cv_espinal_villanueva_wilmer.pdf"
                     target="_blank"
                   >
